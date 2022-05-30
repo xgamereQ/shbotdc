@@ -1,7 +1,7 @@
 module.exports = {
-    token: "OTIyNzU1OTA4NjYzMTE1Nzk2.YcGFaA.Qj8tpO_-mrcSavA8uZkchPCV28g",
-    dev: ["937651916761079810", "526489786631061515", "501826970720534538", "481826037492088832"],
+    token: "OTcyOTE4NjE4OTE0NDMwOTc2.GVt6qr.R-WxZ1uxpzVqZ_SP5x_dCM_rkUasb8X-yQOGnU",
+    dev: ["937651916761079810"],
     settings: {
-        prefix: ".",
+        prefix: "$",
     }
 };
