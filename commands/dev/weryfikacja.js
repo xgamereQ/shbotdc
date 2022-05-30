@@ -7,12 +7,12 @@ module.exports = {
     perm: ["dev"],
     run: async ({ client, message, args }) => {
         let embed = new MessageEmbed()
-            .setImage(`https://cdn.discordapp.com/attachments/923689153592430594/923689296861478912/SLOWCRAFT_WERYFIKACJA.png`)
-            .setTitle(`⁣  ⁣  ⁣  ⁣  ⁣  ⁣   ⁣  ⁣  ⁣  ⁣  ⁣  ⁣ **SlowCraft.pl**  ⁣  ⁣  ⁣  ⁣  ⁣  ⁣   ⁣  ⁣  ⁣  ⁣  ⁣  ⁣`)
+            .setImage(``)
+            .setTitle(`⁣  ⁣  ⁣  ⁣  ⁣  ⁣   ⁣  ⁣  ⁣  ⁣  ⁣  ⁣ **ShCode.PL**  ⁣  ⁣  ⁣  ⁣  ⁣  ⁣   ⁣  ⁣  ⁣  ⁣  ⁣  ⁣`)
             .setDescription(`Aby się zweryfikować, kliknij przycisk 🧩 **Zweryfikuj!** poniżej.`)
             .setColor("#ff4900")
             .setTimestamp()
-            .setFooter("SlowCraft.pl")
+            .setFooter("SHCode.PL")
 
         let button1 = new MessageButton()
             .setStyle('red')
