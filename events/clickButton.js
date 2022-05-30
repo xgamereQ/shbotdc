@@ -25,7 +25,7 @@ module.exports = async (client, button) => {
                     deny: ["VIEW_CHANNEL"]
                 },
                 {
-                    id: '919982487088816149',
+                    id: '914469672865390613',
                     deny: ["VIEW_CHANNEL"]
                 }
             ]
