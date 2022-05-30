@@ -14,7 +14,7 @@ module.exports = async (client, button) => {
         }
         let ticketChannel = await guild.channels.create(`ticket-${buttonClicker.user.username}`, {
             type: "text",
-            parent: "914469969205534720",
+            parent: "914469672865390613",
             permissionOverwrites: [
                 {
                     id: buttonClicker.user.id,
